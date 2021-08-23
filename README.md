@@ -14,6 +14,9 @@ A full application to translate your text from/to (Arabic, English, French, and 
 
 <img src="https://imgur.com/5Ri07kM.png" width="800"/>
 
+1. **Connecting:** connecting to Firebase database.
+2. **Listening:** Listening for any text entered by the mobile app user.
+3. **Executing python script:** executing the python script with the entered text, input, and output languages, saving the translated text to the Firebase database in order to display it on the mobile app.
 
 ## How to make it works.
 
